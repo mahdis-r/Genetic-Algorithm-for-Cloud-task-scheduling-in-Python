@@ -5,8 +5,8 @@ I have also implemented 3 other algorithms: Round Robin, First comes first serve
 
 The main changes applied to our classis simple genetic algorithm is:
 
-generating population based on two algorithms
-using two-point crossover and mutation
-I may soon create another repository implementing other Evolutionary Algorithms such as Ant Colony.
+- generating population based on two algorithms
+- using two-point crossover and mutation
+
 
 Here is the link to the publication: https://www.researchgate.net/publication/265662159_An_Efficient_Approach_to_Genetic_Algorithm_for_Task_Scheduling_in_Cloud_Computing_Environment
